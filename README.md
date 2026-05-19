@@ -1,5 +1,3 @@
-# flushwiki
-Flush crypto casino &amp; sportsbook — community wiki, API docs, and affiliate resources
 # Flush Wiki
 
 Community notes and resources for [Flush.com](https://flush.com) — crypto casino and sportsbook with instant withdrawals and provably fair games.
